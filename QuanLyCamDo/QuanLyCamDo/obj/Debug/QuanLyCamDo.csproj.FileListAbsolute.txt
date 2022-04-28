@@ -1,0 +1,9 @@
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\bin\Debug\QuanLyCamDo.exe
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\bin\Debug\QuanLyCamDo.pdb
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.csprojAssemblyReference.cache
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.Design.DangNhap.resources
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.Properties.Resources.resources
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.csproj.GenerateResource.cache
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.csproj.CoreCompileInputs.cache
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.exe
+D:\APP\CuaHieuCamDo\QuanLyCamDo\QuanLyCamDo\obj\Debug\QuanLyCamDo.pdb
